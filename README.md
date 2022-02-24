@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cire14725836
-- 👀 I’m interested in learning basic doing to start.
+- 👀 I’m interested in learning basic coding.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me erichelgert@outlook.com
